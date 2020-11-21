@@ -72,3 +72,8 @@ Employee Class (Typescript class)
 
 ## Output
 Output interfaces at `http://localhost:4200/` are as follows. 
+
+
+<img src="images/Screenshot from 2020-11-21 23-16-16.png">
+
+<img src="images/Screenshot from 2020-11-21 23-17-01.png">
